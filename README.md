@@ -53,6 +53,7 @@ Respositório template para projetos NPM
 - No README.md as chaves `{{token-codacy}}` e `{{repo}}` localizada no cabecalho do documento dentro do comentário nas linhas 20-37 deve ser substituida pelo token do projeto no codacy.io e novo nome do repositório.
 
 ## Teste
+
 WIP
 
 ## Entendendo os running do NPM
@@ -66,6 +67,7 @@ WIP
 WIP
 
 ## 1. Requisitos para utilização
+
 - Node
 
 ## Como contribuir

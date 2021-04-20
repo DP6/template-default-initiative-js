@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('fs');
 let projectConfig = {};
 let debugging = false;
 
